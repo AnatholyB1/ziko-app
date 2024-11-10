@@ -1,7 +1,6 @@
 {
   "builds": [
     {
-      "src": "/ziko",
       "use": "@vercel/next"
     }
   ],
