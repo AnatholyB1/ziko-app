@@ -7,6 +7,6 @@
     }
   ],
   "routes": [
-    { "src": "/api/ai/(.*)", "dest": "/ziko/flask/app.py" }
+    { "src": "/api/ai/(.*)", "destination": "/ziko/flask/app.py" }
   ]
 }
